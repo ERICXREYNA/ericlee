@@ -1,0 +1,13 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+  int myAge = 15;
+  cout << "I am  " << myAge << " years old,\n";
+  printf(" I am %d ", myAge); 
+  prinft( "my height is %dm %dcm\m=n",1,65);
+  prinft( "my weight is %d,\n",90);
+  prinft( "I have %ｄ　brother,　％ｄ　sister.",o,1);
+  return 0;
+}
+  
