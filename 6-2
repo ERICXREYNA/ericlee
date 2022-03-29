@@ -1,0 +1,17 @@
+#include <stdio.h>
+int main()
+{
+    int a,b,c,d;
+    printf("please input two number and their amout\n");
+    scanf("%d",&a);
+    scanf("%d",&b);
+    scanf("%d",&c);
+    d=a+b;
+    
+    
+    if (c==d)
+        printf("right");
+    else
+        printf("error");
+    return 0;
+}
